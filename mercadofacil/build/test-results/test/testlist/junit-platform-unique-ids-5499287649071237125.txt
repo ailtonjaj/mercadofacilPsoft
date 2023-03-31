@@ -1,0 +1,2 @@
+[engine:junit-jupiter]/[class:com.ufcg.psoft.mercadofacil.VolatilLoteRepositoryTest]/[method:salvarPrimeiroLote()]
+[engine:junit-jupiter]/[class:com.ufcg.psoft.mercadofacil.VolatilLoteRepositoryTest]/[method:salvarSegundoLoteOuPosterior()]
